@@ -1,0 +1,20 @@
+{
+  "name": "com.hrs.timelinesubtitle",
+  "version": "1.1.1",
+  "displayName": "Timeline Subtitle",
+  "description": "Add subtitle track with style moods to Unity Timelines.",
+  "unity": "2019.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "timeline",
+    "editor",
+    "tools",
+    "subtitle"
+  ],
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.9",
+    "com.unity.timeline": "1.7.6"
+  }
+}
