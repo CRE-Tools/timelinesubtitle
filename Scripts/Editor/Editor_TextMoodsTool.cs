@@ -13,7 +13,7 @@ namespace hrspecian.timelinesubtitle.editor
     {
         [Header("Paths")]
         private const string FOLDER_PATH = "Assets/TextMoods";
-        private const string EXAMPLE_PATH = "Packages/com.hrspecian.timelinesubtitle/Assets/_ExampleTool.prefab";
+        private const string EXAMPLE_PATH = "Packages/com.hrs.timelinesubtitle/Assets/_ExampleTool.prefab";
 
         [Header("Exposed Parameters")]
         private int _actionType;
