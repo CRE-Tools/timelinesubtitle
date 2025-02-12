@@ -1,6 +1,6 @@
 using UnityEngine.Playables;
 
-namespace hrspecian.timelinesubtitle.runtime
+namespace hrs.timelinesubtitle.runtime
 {
     public class SubtitleBehaviour : PlayableBehaviour
     {
