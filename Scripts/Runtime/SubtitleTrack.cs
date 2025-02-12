@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-namespace hrspecian.timelinesubtitle.runtime
+namespace hrs.timelinesubtitle.runtime
 {
     [DisplayName("Subtitle/Track")]
     
