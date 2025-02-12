@@ -1,4 +1,4 @@
-using hrspecian.timelinesubtitle.runtime;
+using hrs.timelinesubtitle.runtime;
 using System;
 using System.IO;
 using TMPro;
@@ -7,7 +7,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace hrspecian.timelinesubtitle.editor
+namespace hrs.timelinesubtitle.editor
 {
     public class Editor_TextMoodsTool : EditorWindow
     {

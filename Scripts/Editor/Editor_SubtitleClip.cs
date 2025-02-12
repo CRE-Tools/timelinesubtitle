@@ -1,8 +1,8 @@
 using UnityEditor;
 using UnityEngine;
-using hrspecian.timelinesubtitle.runtime;
+using hrs.timelinesubtitle.runtime;
 
-namespace hrspecian.timelinesubtitle.editor
+namespace hrs.timelinesubtitle.editor
 {
     [CustomEditor(typeof(SubtitleClip))]
     public class Editor_SubtitleClip : Editor
